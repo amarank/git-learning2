@@ -1,0 +1,239 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.ww{
+    max-width: 100%;
+    height: 100vh;
+    border: 1px solid rgb(148, 148, 148);
+    background-color:whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ww1{
+    width: 19%;
+    height: 100vh;
+    float: left;
+    margin-bottom: -40px;
+    background-color:white;
+}
+.m{
+    width:80%;
+    height: 10vh;
+    float: right;
+    background-color: white;
+}
+.m1{
+    width:28%;
+    height: 90vh;
+    float: right;
+    margin-top: -590px;
+    background-color: white;    
+}
+.uu{
+    float: right;
+    padding: 10px;
+    margin-top: 13px;
+    margin-right: 480px;
+    background-color: rgb(201, 199, 199);
+    border: none;
+    font-size: 19px
+}
+.bx-search{
+    float: right;
+    margin-right:-310px;
+    padding-top: 15px;
+    font-size: 40px;
+    padding-left: 40px;
+    padding-right: 50px;
+}
+.bx-video{
+    float: right;
+    margin-right:-460px;
+    padding-top: 15px;
+    font-size: 40px;
+}
+.bxs-grid{
+    float: right;
+    margin-right:-540px;
+    padding-top: 15px;
+    font-size: 40px;
+}
+.bx-dots-vertical-rounded{
+    float: right;
+    margin-right:-600px;
+    padding-top: 15px;
+    font-size: 40px;
+}
+.button{
+    float: right;
+    padding: 10px;
+    margin-right:-720px;
+    margin-top: 10px;
+    color: rgb(12, 162, 248);
+}
+.bxs-user-circle{
+    font-size: 16px;
+    padding-right: 10px;
+}
+.vv{
+    padding-top: 30px;
+    padding-right:10px;
+}
+.vv1{
+    float: right;
+    color:lightslategray;
+    padding-top: 40px;
+   padding-right: 20px;
+}
+.zz{
+    padding-left: 25px;
+}
+.bx-menu{
+    float: left;
+    padding-top: 20px;
+    font-size: 30px;
+}
+.bxs-home{
+    float: left;
+    font-size: 25px;
+    padding-top: 40px;
+    padding-left: 20px;
+}
+.bxs-hot{
+    float: right;
+    padding-top: 40px;
+    padding-right: 210px;
+    font-size: 25px;
+}
+.ii{
+    color: black;
+    padding-top: 25px;
+    float: left;
+    padding-left: 30px;
+    padding-top: 45px;
+}
+.ii1{
+  float: right;
+  color: black;
+  padding-right: 130px;
+  margin-top: -18px;
+}
+.bxs-videos{
+    float: right;
+    padding-top: 40px;
+   padding-right: 210px;
+   font-size: 25px;
+}
+.ii2{
+   color:black;
+   float: right;
+   padding-right: 105px;
+   margin-top: -20px;
+}
+.dd{
+    padding-top: 50px;
+    height: 30vh;
+    border-right:none;
+    border-left: none;
+}
+.bx-time-five{
+    padding-top: 10px;
+    float: right;
+    padding-right: 210px;
+    font-size: 25px;
+}
+.bxs-collection{
+    padding-top: 20px;
+    float: right;
+    padding-right: 210px;
+    font-size: 25px;
+}
+.ll{
+    color: black;
+    float: right;
+    padding-right: 130px;
+    margin-top: -20px;
+}
+.aa{
+    color:black;
+    float: right;
+    padding-right: 130px;
+    margin-top: -20px;
+}
+.pp{
+    color: black;
+    float: right;
+    padding-top: 50px;
+    padding-right: 60px;
+}
+.xz{
+    float: left;
+    margin-top: 40px;
+    margin-left: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    color: rgb(12, 162, 248);
+}
+.shot{
+    color:lightslategray;
+    float: left;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.cc{
+    padding-top: 10px;
+}
+.cc1{
+    color: lightslategrey;
+    float: right;
+    padding-top: 10px;
+    padding-right: 10px;
+}
+.pole{
+    padding-top: 20px;
+}
+.pole1{
+    color: lightslategrey;
+    float: right;
+    padding-top: 20px;
+    padding-right: 10px;
+}
+.rr{
+    color: skyblue;
+}
+.bxs-like{
+    float: left;
+    padding-top: 90px;
+    font-size: 20px;
+    padding-left: -20px;
+}
+.bxs-dislike{
+    float: left;
+    padding-left: 10px;
+    padding-top: 90px;
+    font-size: 20px;
+}
+.bxs-share{
+    float: left;
+    padding-right: 20px;
+    padding-top: 90px;
+    font-size: 25px;
+    color: lightslategrey;
+}
+.jill{
+    padding-top: 10px;
+}
+.jill1{
+    color: lightslategrey;
+    float: right;
+    padding-top: 10px;
+}
+.sts{
+    padding-left: 20px;
+}
+.wrong{
+    float: left;
+    margin-top: 560px;
+}
